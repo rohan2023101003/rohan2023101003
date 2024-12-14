@@ -14,8 +14,8 @@ I'm a **2nd-year Computer Science student at IIIT Hyderabad** passionate about s
 
 📫 **Let's Connect**  
 - **Email:** [rohankumar992p@gmail.com](mailto:rohankumar992p@gmail.com)  
-- **LinkedIn:** [Rohan Kumar](linkedin.com/in/rohan-kumar-a625632ba)  
-- **Portfolio:** [Rohan's portfolio](https://portfolio-1-hk8l.onrender.com)
+- **LinkedIn:** [Rohan Kumar](https://www.linkedin.com/in/rohan-kumar-a625632ba/)  
+- **Portfolio:** [Rohan's portfolio](https://rohan2023101003.github.io/Portfolio_website/)
 
 ---
 
