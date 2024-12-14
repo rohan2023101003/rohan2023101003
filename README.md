@@ -1,5 +1,5 @@
 <p align="left">
-  <img src="./profile.jpg" alt="Rohan's Photo" width="150">
+  <img src="./profile.JPG" alt="Rohan's Photo" width="150">
 </p>
 
 <div style="display: flex; align-items: center;">
