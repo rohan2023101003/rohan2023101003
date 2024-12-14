@@ -1,10 +1,16 @@
-<div style="display: flex; align-items: center;">
-  <img src="./profile.JPG" alt="Rohan's Photo" width="150" style="margin-right: 20px;">
-  <div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <!-- Left Box (Image) -->
+  <div style="flex: 0 0 150px; padding: 10px;">
+    <img src="./profile.JPG" alt="Rohan's Photo" width="150">
+  </div>
+  
+  <!-- Right Box (Text) -->
+  <div style="flex: 1; padding: 10px;">
     <h2>👋 Hi there! I'm Rohan Kumar</h2>
     <p>I'm a <strong>2nd-year Computer Science student at IIIT Hyderabad</strong> passionate about software development, system design, and exploring the intersection of technology and creativity. I enjoy building impactful projects, solving complex problems, and constantly learning new tools and technologies.</p>
   </div>
 </div>
+
 
 
 💻 **Technical Skills**  
