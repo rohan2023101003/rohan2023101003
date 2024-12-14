@@ -19,8 +19,8 @@ I'm a **2nd-year Computer Science student at IIIT Hyderabad** passionate about s
 
 ---
 
-![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=RohanKumar&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=RohanKumar&layout=compact&theme=radical)  
+![Rohan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=rohan2023101003&show_icons=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rohan2023101003&layout=compact&theme=radical)  
 
 ---
 
