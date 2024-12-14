@@ -1,9 +1,16 @@
-# 👋 Hi there! I'm Rohan Kumar  
+<p align="left">
+  <img src="./profile.jpg" alt="Rohan's Photo" width="150">
+</p>
 
-🌟 **About Me**  
-I'm a **2nd-year Computer Science student at IIIT Hyderabad** passionate about software development, system design, and exploring the intersection of technology and creativity. I enjoy building impactful projects, solving complex problems, and constantly learning new tools and technologies.
-
----
+<div style="display: flex; align-items: center;">
+  <div style="flex: 0 0 auto; margin-right: 20px;">
+    <img src="./profile.JPG" alt="Rohan's Photo" width="150">
+  </div>
+  <div style="flex: 1 1 auto;">
+    <h2>👋 Hi there! I'm Rohan Kumar</h2>
+    <p>I'm a <strong>4th-year Computer Science student at IIIT Hyderabad</strong> passionate about software development, system design, and exploring the intersection of technology and creativity. I enjoy building impactful projects, solving complex problems, and constantly learning new tools and technologies.</p>
+  </div>
+</div>
 
 💻 **Technical Skills**  
 - **Languages:** C, C++, Python, JavaScript  
